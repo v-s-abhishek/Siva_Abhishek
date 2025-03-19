@@ -2,7 +2,7 @@
 
 🧠 Computer Science student at KL University<br>
 ⚡️ I create Real Estate Websites<br>
-🔥 My Portfolio<br>
+🔥 [My Portfolio](https://abhi-143-portfolio.netlify.app/)<br>
 # 💫 About Me:
 Passionate and motivated B.Tech student with a strong foundation in computer science and a keen interest in data science. As a proactive learner, I am constantly seeking opportunities to expand my knowledge and skills in order to contribute effectively to the field.<br><br>Throughout my academic journey, I have consistently demonstrated a strong aptitude for problem-solving and critical thinking. I possess a solid understanding of c programming, Java, and Python and have successfully applied them in various projects and coursework. Additionally, my strong analytical skills <br><br>Beyond my academic pursuits, I am an avid learner who stays updated with the latest industry trends and emerging technologies. I actively participate in online courses, workshops, and hackathons to further enhance my skill set and broaden my horizons.<br><br>I am currently seeking opportunities to leverage my skills and contribute to a dynamic organization where I can apply my knowledge and learn from experienced professionals. If you are looking for a dedicated and motivated B.Tech student with a strong drive for success, please feel free to connect with me.
 
